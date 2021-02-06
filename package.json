@@ -1,0 +1,25 @@
+{
+  "name": "discordjs-moderation-bot-1",
+  "version": "1.0.0",
+  "description": "![Eden](https://i.imgur.com/DR9Kzh2.png \"Eden\")",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node.js": "^0.0.1-security",
+    "npm": "^7.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterofninja/discord.js-moderation-bot-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterofninja/discord.js-moderation-bot-1/issues"
+  },
+  "homepage": "https://github.com/masterofninja/discord.js-moderation-bot-1#readme"
+}
